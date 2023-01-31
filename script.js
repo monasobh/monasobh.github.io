@@ -15,7 +15,7 @@ function getData() {
 
 
 function pullData(service) {
-    let table="<tr><th>Service</th><th>Pricing</th></tr>";
+    let table="<tr><th>Service</th><th>Pricing ($)</th></tr>";
     for(let i = 0; i < service.length; i++) {
         table += "<tr><td>" +
             service[i].getElementsByTagName("service_name")
