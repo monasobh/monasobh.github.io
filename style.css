@@ -1,7 +1,11 @@
+html * {
+    font-family: 'AcariSansNeueRegular', Sans-serif;
+}
+
 body {
     margin: 0;
-    font-family: 'AcariSansNeueRegular';
 }
+
 header {
     max-height: 50%;
     background-color: #dddddd;
@@ -10,8 +14,8 @@ header {
     padding-right: 2em;
     position: sticky;
     top: 0;
-    font-family: 'AcariSansNeueRegular';
 }
+
 header img {
     max-height: 5em;
     margin: 1em;
@@ -26,7 +30,6 @@ header img {
 
 main {
     min-height: 65vh;
-    font-family: 'AcariSansNeueRegular';
 }
 
 header form {
@@ -47,7 +50,12 @@ iframe {
     iframe {
         width: 90%;
     }
+}
 
+h1 {
+    font-size: 2em;
+    margin-left: 1em;
+    margin-left: 0.7em;
 }
 
 h2 {
@@ -55,13 +63,7 @@ h2 {
     font-size: 2.5em;
 }
 
-h3 {
-    font-size: 2em;
-    margin-left: 1em;
-    margin-left: 0.7em;
-}
-
-h4 {
+h1 {
     font-size: 1.5em;
     margin-left: 1em;
 }
@@ -240,7 +242,7 @@ span.credit {
     flex-grow: 1;
 }
 
-.card.item h3 {
+.card.item h1 {
     flex-grow: 1;
     overflow-wrap: anywhere;
 }
