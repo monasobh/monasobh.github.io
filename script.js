@@ -22,7 +22,7 @@ function pullData(service) {
             [0].childNodes[0].nodeValue +
             "</td><td>" +
             service[i].getElementsByTagName("package_price")
-            [0].childNodes[0].nodeValue +
+            [0].childNodes[0].nodeValue + " €"
             "</td></tr>";
     }
 
