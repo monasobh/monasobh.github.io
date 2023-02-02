@@ -38,7 +38,7 @@ header form {
     margin-right: 4em;
 }
 
-iframe {
+video {
     margin: 0 auto;
     display: block;
 
@@ -47,7 +47,7 @@ iframe {
     aspect-ratio: 16/9;
 }
 @media(max-width: 800px) {
-    iframe {
+    video {
         width: 90%;
     }
 }
