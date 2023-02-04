@@ -6,7 +6,8 @@
 
 ## Our T-800 Cybersecurity Webpage:
 
-https://monasobh.github.io/
+https://monasobh.github.io/ \
+_(Last changes made on git: 04.02.2023 at 1:40 pm)_
 
 ## Validations:
 
@@ -18,3 +19,6 @@ No errors or warnings on any page.
 
 https://jigsaw.w3.org/css-validator/ \
 No errors on any page.
+
+Google's Rich Results Test: \
+No errors.
