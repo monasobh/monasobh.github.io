@@ -84,7 +84,6 @@ a {
     font-size: 1.25rem;
 }
 
-
 table {
     display: block;
     margin: 0 auto;
@@ -156,7 +155,6 @@ aside {
 .credit a{
     font-size: 1em;
 }
-
 
 .products {
     width: 100%;
@@ -293,7 +291,6 @@ aside {
 }
 
 .blogCard {
-    /*border: 2px solid black;*/
     border-radius: 1em;
     margin-bottom: 2em;
     display:flex;
@@ -306,7 +303,6 @@ aside {
 .blogCard p {
     padding: 1em;
 }
-
 
 .imagespacer {
     height: 35vh;
@@ -411,7 +407,6 @@ footer {
     bottom: 0;
     padding: .5em;
     height: 2em;
-
 }
 
 .homepageFooter {
@@ -439,7 +434,6 @@ footer ul {
 }
 
 .imglist {
-    /* height: 4em; */
     line-height: 2em;
 }
 
@@ -467,7 +461,6 @@ footer ul {
         width: 100%;
     }
 }
-
 
 .imglist a {
     float: right;
