@@ -15,3 +15,6 @@ Google's Lighthouse:\
 
 https://validator.nu \
 No errors or warnings on any page.
+
+https://jigsaw.w3.org/css-validator/ \
+No errors on any page.
